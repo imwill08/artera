@@ -1,0 +1,437 @@
+@media (max-width:1199px) {
+    .container {
+        max-width: 97%;
+    }
+
+    .soonbannertext span {
+        font-size: 28px;
+    }
+
+    .soonbannertext h1 {
+        font-size: 76px;
+        line-height: 76px;
+        margin-bottom: 30px;
+    }
+
+    .storycontent p {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 22px;
+        color: #666666;
+    }
+
+    .soonbannertext p {
+        font-size: 18px;
+    }
+
+    .commanheader h2 {
+        font-size: 36px;
+    }
+
+    .ourherprogrambox h3 {
+        font-size: 22px;
+    }
+
+    .workvideo {
+        width: 100%;
+        height: 100%;
+        border-radius: 12px;
+        display: block;
+        object-fit: cover;
+    }
+}
+
+@media (max-width:1023px) {
+
+    .container {
+        max-width: 900px !important;
+    }
+
+    .headerlogo img {
+        max-width: 71px;
+    }
+
+    .headermain {
+        height: 97px;
+    }
+
+    .soonbannertext {
+        text-align: center;
+    }
+
+    .timerbox {
+        justify-content: center;
+    }
+
+    .video-wrapper {
+        height: 100%;
+    }
+
+    .soonbannertext h1 {
+        font-size: 66px;
+        line-height: 66px;
+        margin-bottom: 30px;
+    }
+
+    .soonbannertext span {
+        font-size: 26px;
+    }
+
+    .storycontent p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        color: #666666;
+    }
+
+    .headermenus {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        height: 100vh;
+        display: flex !important;
+        flex-direction: column !important;
+        width: 80%;
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+        padding: 5px 20px 20px;
+        transition: left 0.4s ease;
+        z-index: 999991;
+        background: #fff;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .headermenus a {
+        width: 100% !important;
+        display: block !important;
+        text-align: left !important;
+        padding: 15px 10px !important;
+        font-size: 18px;
+        margin: 0 !important;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+        background: transparent !important;
+        border-radius: 0 !important;
+        box-shadow: none !important;
+        color: #2E2E2E !important;
+        transition: all 0.3s ease;
+    }
+
+    .headermenus a:last-child {
+        border-bottom: none !important;
+    }
+
+    /* when active */
+    .headermenus.show_menubar {
+        left: 0;
+    }
+
+    /* RTL mobile menu */
+    [dir="rtl"] .headermenus,
+    html[dir="rtl"] .headermenus {
+        left: auto;
+        right: -100%;
+        transition: right 0.4s ease;
+    }
+
+    [dir="rtl"] .headermenus.show_menubar,
+    html[dir="rtl"] .headermenus.show_menubar {
+        left: auto;
+        right: 0;
+    }
+
+    .menubar {
+        cursor: pointer;
+        position: relative;
+        z-index: 1000;
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .menu-backdrop {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 9991;
+    }
+
+    .headermenus a {
+        width: 100%;
+        display: block;
+        text-align: center;
+        padding: 10px 20px;
+        font-size: 16px;
+        margin: 0 0 12px;
+        box-shadow: 0px 25px 50px -12px #0000001A;
+        background: #FFFFFF;
+        border-radius: 10px;
+    }
+
+    .bannertext h1 {
+        font-size: 32px;
+    }
+
+    .bannertext p {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .downloadpartt span {
+        font-size: 18px;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+    body {
+        padding-top: 97px;
+    }
+
+    .bannertext {
+        text-align: center;
+    }
+
+    .bannerimg {
+        text-align: center;
+    }
+
+    .servicesimg {
+        height: 242px;
+    }
+
+    .servicescontent h3 {
+        font-size: 26px;
+        line-height: 28px;
+        margin-bottom: 11px;
+    }
+
+    .servicescontent p {
+        font-size: 20px;
+        line-height: 30px;
+        margin: 0;
+    }
+
+    .ctasection .row {
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+@media (max-width:767px) {
+    .container {
+        max-width: 100% !important;
+        margin: 0 auto;
+    }
+
+    .headerlogo img {
+        max-width: 61px;
+    }
+
+    .headermain {
+        height: 87px;
+    }
+
+    .proudbox {
+        margin-bottom: 18px;
+        border-radius: 200px;
+        padding: 5px 16px;
+        height: 42px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .soonbannertext span {
+        font-size: 20px;
+        line-height: 29px;
+    }
+
+    .soonbannertext h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+
+    .countnumber {
+        height: 49px;
+        width: 32px;
+        font-size: 22px;
+        border-radius: 5px;
+        font-weight: 400;
+    }
+
+    .timerbtm {
+        font-size: 14px;
+    }
+
+    .soonbannertext p {
+        font-size: 16px;
+    }
+
+    .meetbox {
+        border-radius: 10px;
+        padding: 17px;
+    }
+
+    .meetdetails h2 {
+        font-size: 20px;
+        margin-bottom: 4px;
+        line-height: 24px;
+    }
+
+    .meetdetails span {
+        font-size: 16px;
+    }
+
+    .meetdetails a {
+        border-radius: 10px;
+        font-size: 16px;
+        margin-top: 14px;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .commanheader h2 {
+        font-size: 28px;
+    }
+
+    .storylogo {
+        margin: 0 auto 25px;
+        height: 150px;
+        width: 150px;
+    }
+
+    .storylogo img {
+        max-width: 80px;
+    }
+
+    .storycontent p {
+        font-size: 18px;
+        line-height: 27px;
+        margin-bottom: 20px;
+        text-align: center;
+        color: #666666;
+    }
+
+    .ourheroprogram .commanheader h2 {
+        line-height: 40px;
+    }
+
+    .ourheroprogram .commanheader p {
+        font-size: 18px;
+        margin: 0;
+        line-height: 28px;
+    }
+
+    .ourherprogrambox {
+        border: 1px solid #f2f2f2;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
+
+    .ourherprogrambox img {
+        max-width: 60px;
+    }
+
+    .ourherprogrambox h3 {
+        font-size: 20px;
+    }
+
+    .video-wrapper {
+        height: 170px;
+        border-radius: 4px;
+    }
+
+    .footermain {
+        padding: 50px 0 0;
+    }
+
+    .footerabout {
+        text-align: center;
+    }
+
+    .footerabout .d-flex {
+        justify-content: center;
+    }
+
+    .footerabout,
+    .footerabout img {
+        text-align: center !important;
+    }
+
+    .footerbox h2 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+
+    .footerbox {
+        text-align: center;
+    }
+
+    .footerbox ul li a {
+        font-size: 16px;
+    }
+
+    .aboutlinks {
+        margin: 0 10px;
+    }
+
+    .headermain.scrolled {
+        height: 77px;
+    }
+
+    body {
+        padding-top: 87px;
+    }
+
+    .bannertext h1 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .bannertext p {
+        font-size: 18px;
+        margin-bottom: 18px;
+    }
+
+    .downloadpartt img {
+        max-width: 120px;
+    }
+
+    .servicescontent h3 {
+        font-size: 22px;
+        line-height: 23px;
+        margin-bottom: 10px;
+    }
+
+    .servicescontent p {
+        font-size: 18px;
+        line-height: 28px;
+        margin: 0;
+    }
+
+    .ctacontent p {
+        font-size: 18px;
+        margin-bottom: 20px;
+        line-height: 28px;
+    }
+
+    .headermain.scrolled .headerlogo img {
+        max-width: 66px;
+    }
+
+    .ourheroprogram .themebtn1 {
+        font-size: 16px;
+        padding: 0 20px;
+        height: 48px;
+        margin-top: 18px;
+    }
+
+    [dir="rtl"] .proudbox {
+        margin: auto;
+    }
+
+    [dir="rtl"] .custom-left {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}

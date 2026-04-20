@@ -1,0 +1,238 @@
+@media (min-width: 992px) {
+    [dir="rtl"] {
+        & .lnd_banner li:nth-child(2) {
+            right: 80%;
+            white-space: nowrap;
+        }
+
+        & .lnd_banner li:nth-child(3) {
+            right: 80%;
+            white-space: nowrap;
+        }
+
+        & .lnd_banner li:nth-child(1) {
+            left: 75%;
+            white-space: nowrap;
+
+        }
+
+        & .lnd_banner .banneervideo {
+            text-align: center;
+        }
+
+        & .lnd_banner .banneervideo video {
+            text-align: center;
+        }
+
+        & .downloadpartt .d-flex {
+            justify-content: start !important;
+        }
+    }
+}
+
+/*--------------------------------------------------------------
+/*--------------------------------------------------------------
+# Arabic Font Styles - Effra for headings (main text) and Bressy for Body (subtext)
+--------------------------------------------------------------*/
+@font-face {
+    font-family: 'Effra';
+    src: url('../public/assets/fonts/Effra_Trial_Rg.ttf') format('truetype'),
+        url('../public/assets/fonts/Effra-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: 'Effra';
+    src: url('../public/assets/fonts/Effra_Trial_Bd.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: 'Effra';
+    src: url('../public/assets/fonts/Effra_Trial_XBd.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: 'Bressay';
+    src: url('../public/assets/fonts/Bressay_Trial_Rg.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bressay';
+    src: url('../public/assets/fonts/Bressay_Trial_Bd.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Headings (Main text) = Effra */
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] h4,
+[dir="rtl"] h5,
+[dir="rtl"] h6,
+[dir="rtl"] .mainbtnn,
+[dir="rtl"] .themebtn1,
+[dir="rtl"] .submitbtn,
+[dir="rtl"] .cta-btn,
+[dir="rtl"] .headermenus a,
+[dir="rtl"] .footerbox h2,
+[dir="rtl"] .commanheader h2,
+[dir="rtl"] .mainheading h2,
+[dir="rtl"] .mainheadingwht h2,
+[dir="rtl"] .chooseitem h3,
+[dir="rtl"] label,
+[dir="rtl"] .formheader,
+[dir="rtl"] .thankyoutext h1,
+[dir="rtl"] .thankyoutext h2,
+html[dir="rtl"] h1,
+html[dir="rtl"] h2,
+html[dir="rtl"] h3,
+html[dir="rtl"] h4,
+html[dir="rtl"] h5,
+html[dir="rtl"] h6,
+html[dir="rtl"] .mainbtnn,
+html[dir="rtl"] .themebtn1,
+html[dir="rtl"] .submitbtn,
+html[dir="rtl"] .cta-btn,
+html[dir="rtl"] .headermenus a,
+html[dir="rtl"] .footerbox h2,
+html[dir="rtl"] .commanheader h2,
+html[dir="rtl"] .mainheading h2,
+html[dir="rtl"] .mainheadingwht h2,
+html[dir="rtl"] .chooseitem h3,
+html[dir="rtl"] label,
+html[dir="rtl"] .formheader,
+html[dir="rtl"] .thankyoutext h1,
+html[dir="rtl"] .thankyoutext h2,
+.rtl h1,
+.rtl h2,
+.rtl h3,
+.rtl h4,
+.rtl h5,
+.rtl h6,
+.rtl .mainbtnn,
+.rtl .themebtn1,
+.rtl .submitbtn,
+.rtl .cta-btn,
+.rtl .headermenus a,
+.rtl .footerbox h2,
+.rtl .commanheader h2,
+.rtl .mainheading h2,
+.rtl .mainheadingwht h2,
+.rtl .chooseitem h3,
+.rtl label,
+.rtl .formheader,
+.rtl .thankyoutext h1,
+.rtl .thankyoutext h2 {
+    font-family: 'Effra', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans Arabic', sans-serif !important;
+}
+
+/* Body (Subtext) = Bressay */
+[dir="rtl"] body,
+[dir="rtl"] p,
+[dir="rtl"] span,
+[dir="rtl"] div,
+[dir="rtl"] a,
+[dir="rtl"] .soonbannertext p,
+[dir="rtl"] .storycontent p,
+[dir="rtl"] .meetdetails span,
+[dir="rtl"] .footerbox a,
+[dir="rtl"] .aboutlinks,
+[dir="rtl"] input,
+[dir="rtl"] textarea,
+[dir="rtl"] .lnd_banner p,
+[dir="rtl"] .lnd_banner li,
+[dir="rtl"] .thankyoutext p,
+html[dir="rtl"] body,
+html[dir="rtl"] p,
+html[dir="rtl"] span,
+html[dir="rtl"] div,
+html[dir="rtl"] a,
+html[dir="rtl"] .soonbannertext p,
+html[dir="rtl"] .storycontent p,
+html[dir="rtl"] .meetdetails span,
+html[dir="rtl"] .footerbox a,
+html[dir="rtl"] .aboutlinks,
+html[dir="rtl"] input,
+html[dir="rtl"] textarea,
+html[dir="rtl"] .lnd_banner p,
+html[dir="rtl"] .lnd_banner li,
+html[dir="rtl"] .thankyoutext p,
+.rtl body,
+.rtl p,
+.rtl span,
+.rtl div,
+.rtl a,
+.rtl .soonbannertext p,
+.rtl .storycontent p,
+.rtl .meetdetails span,
+.rtl .footerbox a,
+.rtl .aboutlinks,
+.rtl input,
+.rtl textarea,
+.rtl .lnd_banner p,
+.rtl .lnd_banner li,
+.rtl .thankyoutext p {
+    font-family: 'Bressay', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans Arabic', sans-serif !important;
+}
+
+/* RTL Typography fixes */
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] .mainheading h2,
+[dir="rtl"] .mainheadingwht h2,
+[dir="rtl"] .lnd_banner h1,
+html[dir="rtl"] h1,
+html[dir="rtl"] h2,
+html[dir="rtl"] h3,
+html[dir="rtl"] .mainheading h2,
+html[dir="rtl"] .mainheadingwht h2,
+html[dir="rtl"] .lnd_banner h1,
+.rtl h1,
+.rtl h2,
+.rtl h3,
+.rtl .mainheading h2,
+.rtl .mainheadingwht h2,
+.rtl .lnd_banner h1 {
+    line-height: 1.5 !important;
+    letter-spacing: 0.02em !important;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.owl-stage-outer {
+    direction: ltr !important;
+}
+
+.owl-nav {
+    direction: ltr !important;
+}
+
+.slick-slider.slick-initialized,
+.slick-list {
+    direction: ltr !important;
+}
+
+.maineventbx .eventitem {
+    display: flex !important;
+}
+
+[dir="rtl"] .comm_faq .faq_box_head::after {
+    right: 90%;
+}

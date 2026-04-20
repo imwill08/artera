@@ -1,0 +1,250 @@
+{
+  "header": {
+    "english": "English",
+    "appDownload": "App Download",
+    "meetTara": "Meet Tara",
+    "ourStory": "Our Story",
+    "signatureAiServices": "Signature AI Services",
+    "aboutUs": "About Us",
+    "reward": "Welcome Gift",
+    "services": "We Bring Vibes",
+    "whyUs": "Why Us",
+    "aiServices": "AI Services",
+    "contactUs": "Contact Us",
+    "showcase": "Showcase",
+    "logoAlt": "Artera Logo",
+    "englishLabel": "EN",
+    "arabicLabel": "AR",
+    "faq": "FAQ"
+  },
+  "headercomingsoon": {
+    "meetTara": "Meet Tara",
+    "ourStory": "Our Story",
+    "heroProgram": "Hero Program",
+    "showcases": "Showcases",
+    "contactUs": "Contact Us",
+    "aiServices": "Signature AI Services",
+    "english": "English"
+  },
+  "home": {
+    "expertProfessionals": "Expert Professionals",
+    "tailoredExperiences": "Tailored Experiences",
+    "premiumService": "Premium Service",
+    "bannerTitle": "A Digital World of <span>Beauty, Photography & Music</span>",
+    "bannerText": "We bring a premium digital experience crafted for the modern Saudi lifestyle. From professional makeup artistry to flawless photography and curated music experiences, every detail is designed to elevate your style and moments. Our team of experts ensures that your beauty, visuals, and rhythm are captured with perfection.",
+    "rewardPointsTitle": "Claim Free 1000 Reward Points",
+    "formYourName": "Your Name",
+    "formPhone": "Phone number",
+    "formEmail": "Your Email",
+    "formMessage": "Message",
+    "formPhonePlaceholder": "Phone Number",
+    "formSubmitBtn": "Fill the form to get reward",
+    "sending": "Sending...",
+    "limitedSpots": "Limited Spots Available",
+    "exclusiveRewardTitle": "Exclusive <span>Free 1000 Reward Points</span>",
+    "exclusiveRewardDesc": "Be among the first to experience the beauty, photography, and music services. Register now and enjoy <strong>1000 reward points</strong> to use on your first experience. Hurry, this special offer is available for a limited time only!",
+    "exclusiveRewardNote": "The free 1000 reward points are offered to new users registering during our limited-time launch period.",
+    "pointsValue": "1000 Points = SAR 100",
+    "pointsAccountNote": "*These reward points will be added to your account and can be used while booking our services.",
+    "claimPointsBtn": "Download the App & Claim Your Free 1000 Points",
+    "meetTaraNewTitle": "Meet Tara: Your <span>Stylish AI-Companion</span>",
+    "meetTaraNewDesc": "Powered by new-age technology, Tara understands your skin tone and style to suggest makeup and accessories that enhance your natural glow. No guesswork, just personalized beauty recommendations designed for you.",
+    "discoverLookBtn": "Discover Your Ideal Look",
+    "whyChooseUsTitle": "Why <span>Choose Us</span>",
+    "whyChooseUsDesc": "Experience a seamless, premium, and personalized service that brings top-tier beauty, photography, and music experiences directly to you.",
+    "verifiedProfessionals": "Verified Professionals Only",
+    "privacyPriority": "Your Privacy, Our Priority",
+    "transparentPricing": "Transparent Pricing",
+    "premiumQualityStandards": "Premium Quality Standards",
+    "onTimeService": "On-Time Service Guarantee",
+    "assuredSatisfaction": "Assured Service Satisfaction",
+    "seamlessBooking": "Seamless Booking",
+    "dedicatedSupport": "Dedicated Customer Support",
+    "exclusiveRewards": "Exclusive Launch Rewards",
+    "eventTitle": "Our Services Cover <span>The Following Events</span>",
+    "eventTradeShows": "Trade Shows and Exhibitions",
+    "eventProductLaunches": "Product Launches",
+    "eventCorporateConferences": "Corporate Conferences",
+    "eventSeminars": "Seminars &amp; Workshops",
+    "eventGalasAwards": "Galas &amp; Awards",
+    "eventMusicEntertainment": "Music &amp; Entertainment",
+    "eventNetworking": "Networking Events",
+    "eventFashionShows": "Fashion Shows",
+    "eventExecutiveRetreats": "Executive Retreats",
+    "eventBoardMeetings": "Board Meetings",
+    "eventInvestorRelations": "Investor Relations",
+    "eventRedCarpet": "Red Carpet &amp; VIP Events",
+    "joinWaitlistBtn": "Join Our Waitlist",
+    "claimwelcome": "Claim Your Welcome Gift",
+    "showcaseTitle": "Watch the Video to Know the <span>Works of Our Creators</span>",
+    "shareEarnTitle": "<span>Share &amp; Earn</span>",
+    "shareEarnDesc": "Invite your friends to experience beauty, photography, and music like never before. For every successful referral, you earn exclusive credits to use on your next booking.",
+    "startEarningsBtn": "Start Your Earnings",
+    "faqTitle": "Frequently Asked <span>Question</span>",
+    "faqQ1": "What services does your platform offer?",
+    "faqA1": "We provide professional makeup, photography, and curated music services all in one place.",
+    "faqQ2": "How do I book a service?",
+    "faqA2": "Simply register on our platform, choose your service, and schedule your appointment online.",
+    "faqQ3": "How does Tara AI personalize beauty recommendations?",
+    "faqA3": "Tara AI uses advanced technology to analyze your skin tone, style preferences, and features. It then suggests makeup, accessories, and looks that enhance your natural glow, removing the guesswork and offering personalized beauty decisions.",
+    "faqQ4": "Is my personal information safe on your platform?",
+    "faqA4": "Absolutely. Your privacy is our priority. We maintain strict data protection standards and only work with verified professionals to ensure a safe and reliable experience.",
+    "faqQ5": "Are the professionals on your platform verified?",
+    "faqA5": "Yes, all our makeup artists, photographers, and music experts are carefully vetted.",
+    "faqQ6": "Can I customize my experience?",
+    "faqA6": "Absolutely! Services are tailored to your style, occasion, and preferences.",
+    "faqQ7": "Where are the services available?",
+    "faqA7": "Our platform currently serves major cities in Saudi Arabia, with more locations coming soon.",
+    "faqQ8": "Who will be my service professional?",
+    "faqA8": "Our production team assigns the best available professionals based on your location, style, and brief. Every professional is vetted and rated to ensure brand-safe and consistent results.",
+    "proudlySaudi": "Proudly Saudi",
+    "headline": "This is the New Art Era...This is Artera",
+    "comingSoon": "Coming soon...",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "description": "The First AI Powered Hub in GCC Uniting Beauty, Photography, & Music.",
+    "meetTaraTitle": "Meet Tara",
+    "meetTaraSubtitle": "Your Creative Companion",
+    "registerNow": "Register Now & Gain 1,000 Reward Points",
+    "ourStoryTitle": "Our Story",
+    "storyParagraph1": "Artera was built to transform moments into masterpieces — where beauty, photography, and music meet AI magic that reveals your shine and marks your moment.",
+    "storyParagraph2": "At its heart, Artera connects clients with talented artists — empowering rising talents to thrive and enabling every client to shine.",
+    "storyParagraph3": "Tara is our trusted AI companion, always by your side throughout the journey. She is more than a guide — she's a muse woven from creativity and care, inspiring and illuminating every step. With Tara, the path to your perfect look or vibe feels effortless, personal, and truly magical.💜 Artera — A Journey of Aspirations.",
+    "heroProgramTitle": "Our",
+    "heroProgramTitleSpan": "Hero Program -",
+    "heroProgramSubtitle": "The exclusive circle for tomorrow's artists.",
+    "heroProgramDescription": "Your talent deserves it. Acquire new clients. Expand your business.",
+    "joinNow": "Join Now",
+    "unlockPremium": "Unlock Premium & Exclusive Services",
+    "tapIntoMarketing": "Tap into our Marketing Campaigns",
+    "showcasesTitle": "See our",
+    "showcasesTitleSpan": "Hero's Works",
+    "trySignatureServices": "Try Our",
+    "signatureAi": "signature AI",
+    "services": "Services",
+    "colorGlow": "Color Glow",
+    "colorGlowDesc": "Discover the power of your undertone. Our AI analyzes your skin undertones to create personalized color palettes for outfits, makeup, and accessories. see your perfect shades instantly — boosting confidence, trust, and driving more bookings for you.",
+    "explore": "Explore",
+    "pay": "Pay",
+    "beautyLine": "Beauty Lines",
+    "beautyLineDesc": "From undertone to face shape, AI transforms analysis into artistry. With AR-powered styling tips, you can preview your tailored hair, makeup, and accessory looks designed just for you.",
+    "aboutUsTitle": "About",
+    "aboutUsTitleSpan": "Us",
+    "aboutUsDescription": "Artera is a dream of Saudi entrepreneurs, brought to life as the Gulf's first AI-powered platform uniting beauty, photography, and music in one seamless experience. Our platform blends smart technology with human artistry — offering secure bookings, transparent pricing, and a seamless journey that turns every occasion into a masterpiece. Built with creativity at its core, Artera empowers rising artists to grow their business and gives clients a trusted space to shine. 💜 Artera — A Journey of Aspirations.",
+    "rewardCtaTitle": "Get Reward Points On Your First Booking",
+    "rewardCtaDesc": "Use your reward points to unlock exclusive discounts or premium add-ons when booking beauty, photography, or music experiences. Every point you earn brings you closer to a luxury, personalized experience, making your future bookings even more rewarding.",
+    "becomeArtist": "Become an Artist- Let us grow your business - Download",
+    "arteraBusinessApp": "Artera Business App",
+    "downloadArtera": "Download Artera"
+  },
+  "footer": {
+    "earlyRegister": "Early Register",
+    "joinHeroProgram": "Join Hero Program",
+    "quickLinks": "Quick Links",
+    "termsOfUse": "Terms of Use",
+    "privacyPolicy": "Privacy Policy",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "copyright": "All Rights Reserved - Copyright 2026"
+  },
+  "privacyPolicy": {
+    "title": "Artera Platform – Privacy Policy for Clients",
+    "effectiveDate": "Effective Date: 1/1/2026",
+    "definitions": {
+      "title": "1. Definitions",
+      "personalData": "<strong>Personal Data:</strong> Any information related to an identifiable person, including name, phone number, email, uploaded images, location, and booking/payment history.",
+      "dataProcessing": "<strong>Data Processing:</strong> Any operation performed on personal data, including collection, storage, use, transfer, or deletion.",
+      "authorizedEntities": "<strong>Authorized Entities:</strong> Entities permitted to access or process personal data for operational or legal reasons, including internal staff and external service providers.",
+      "platform": "<strong>Platform / Application:</strong> The Artera digital platform used by clients and service providers for booking and communication."
+    },
+    "dataCollected": {
+      "title": "2. Data Collected",
+      "content": "The platform collects personal data necessary to deliver services and enhance user experience. This includes the client’s full name, phone number, email, geographic location and national address, booking and payment history, preferences related to AI features, and any images uploaded by the client for service previews, personalization, or documentation."
+    },
+    "useOfData": {
+      "title": "3. Use of Data",
+      "content": "Collected data is used for operational and compliance purposes, including processing bookings and payments, matching clients with suitable service providers, sending service updates and notifications, improving platform functionality, and complying with regulatory requirements or resolving disputes."
+    },
+    "dataSharing": {
+      "title": "4. Data Sharing",
+      "content": "The platform may share collected data only with specific parties and for legitimate operational, financial, regulatory, or promotional purposes. These parties include service providers linked to confirmed bookings, approved electronic payment gateways, the internal support and operations team, and relevant government authorities when required by law. Additionally, the platform may use data in advertising or promotional campaigns executed by authorized marketing partners."
+    },
+    "dataProtection": {
+      "title": "5. Data Protection",
+      "content": "The platform adheres to technical and organizational standards to protect personal data from unauthorized access or unlawful processing. These measures include SSL encryption during transmission, secure data storage environments, restricted internal access based on user roles, and regular information security audits."
+    },
+    "clientRights": {
+      "title": "6. Client Rights",
+      "content": "Clients have the right to request access to their personal data, correct any inaccurate or outdated information, delete their account and all related data upon request, and raise any privacy-related questions or complaints with the platform’s support team."
+    },
+    "amendments": {
+      "title": "7. Amendments",
+      "content": "The Platform reserves the right to modify this Policy at any time. Continued use of the Platform following such amendments constitutes acceptance of the updated policy."
+    }
+  },
+  "spPrivacyPolicy": {
+    "title": "Service Provider Privacy Policy – Artera Platform",
+    "effectiveDate": "Effective Date: 1/1/2026",
+    "definitions": {
+      "title": "1. Definitions",
+      "personalData": "<strong>Personal Data:</strong> Any information related to an identifiable person, including name, phone number, email, uploaded images, location, and booking/payment history.",
+      "dataProcessing": "<strong>Data Processing:</strong> Any operation performed on personal data, including collection, storage, use, transfer, or deletion.",
+      "authorizedEntities": "<strong>Authorized Entities:</strong> Entities permitted to access or process personal data for operational or legal reasons, including internal staff and external service providers.",
+      "platform": "<strong>Platform / Application:</strong> The Artera digital platform used by clients and service providers for booking and communication."
+    },
+    "scope": {
+      "title": "2. Scope",
+      "content": "This Privacy Policy governs the collection, use, storage, and sharing of personal information by Service Providers using the Artera Platform. Acceptance of this policy is a prerequisite for account activation and service participation."
+    },
+    "dataCollected": {
+      "title": "3. Data Collection",
+      "content": "The Platform collects essential data during account registration and service provision. This includes the full name, national ID or residency, national address, IBAN, contact information, and booking and performance logs."
+    },
+    "useOfData": {
+      "title": "4. Use of Data",
+      "content": "Collected data is used strictly for the purposes of verifying eligibility, processing payments, providing technical support, improving service quality, and complying with applicable legal and regulatory requirements."
+    },
+    "dataSharing": {
+      "title": "5. Data Sharing",
+      "content": "Data shall not be shared with third parties except as required for service execution or by legal obligation. Permitted recipients include Clients with confirmed bookings, payment gateways, platform administrators, and official government authorities upon formal request."
+    },
+    "dataProtection": {
+      "title": "6. Data Protection",
+      "content": "The Platform employs robust technical and organizational security measures, including encryption, secure data storage, and access restrictions based on user roles. Regular audits and updates are conducted to ensure compliance with applicable data protection laws in the Kingdom of Saudi Arabia."
+    },
+    "spRights": {
+      "title": "7. Rights of Service Providers",
+      "content": "Service Providers have the right to request access to their stored data, correction of inaccurate information, deletion of their account, or full data removal. All privacy-related inquiries may be submitted to the Platform’s support team."
+    },
+    "dataRetention": {
+      "title": "8. Data Retention",
+      "content": "Personal data is retained for the duration of the Service Provider’s active account and for a reasonable period thereafter, in accordance with legal and regulatory obligations."
+    },
+    "amendments": {
+      "title": "9. Amendments",
+      "content": "The Platform reserves the right to modify this Privacy Policy at any time. Continued use of the Platform following such amendments constitutes acceptance of the updated policy."
+    }
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch with Artera",
+    "description": "Artera is a dream of Saudi entrepreneurs, brought to life as the Gulf's first AI-powered platform uniting beauty, photography, and music in one seamless experience. Our platform blends smart technology with human artistry — offering secure bookings, transparent pricing, and a seamless journey that turns every occasion into a masterpiece. Built with creativity at its core, Artera empowers rising artists to grow their business and gives clients a trusted space to shine. 💜 Artera — A Journey of Aspirations.",
+    "emailTitle": "Email Us",
+    "phoneTitle": "Call Us",
+    "formTitle": "Send us a Message",
+    "formName": "Full Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number",
+    "formMessage": "How can we help you?",
+    "formSubmit": "Submit Message",
+    "successMessage": "Thank you for reaching out! We will get back to you shortly.",
+    "errorMessage": "Something went wrong. Please try again later."
+  },
+  "thankYou": {
+    "title": "Thank You",
+    "subtitle": "Congratulations! You’ve earned 1,000 Artera Points.",
+    "description": "They’ll be ready to use when the app launches. Stay tuned!"
+  }
+}
