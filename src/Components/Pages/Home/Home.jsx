@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { useTranslation } from "react-i18next";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import PhoneInput from 'react-phone-input-2';
 import 'react-phone-input-2/lib/style.css';
@@ -214,8 +214,8 @@ const Home = () => {
                     <div className="downloadpartt">
                       <span>{t('home.downloadArtera')}</span>
                       <div className="d-flex align-items-center justify-content-lg-start justify-content-md-center justify-content-center">
-                        <a className="me-4" href="#"><img src="/assets/img/appstrore.png" alt /></a>
-                        <a href="#"><img src="assets/img/googleplay.png" alt /></a>
+                        <Link target="_blank" className="me-4" to="https://apps.apple.com/sa/app/artera/id6757599221"><img src="/assets/img/appstrore.png" alt /></Link>
+                        <Link target="_blank" to="https://play.google.com/store/apps/details?id=com.artera_user&pcampaignid=web_share"><img src="assets/img/googleplay.png" alt /></Link>
                       </div>
                     </div>
                   </div>
@@ -418,8 +418,8 @@ const Home = () => {
                 {/* <div className="downloadparttt">*/}
                 <span>{t('home.downloadArtera')}</span>
                 <div className="d-flex pt-3 align-items-center justify-content-lg-center justify-content-md-center justify-content-center">
-                  <a className="me-4" href="#"><img src="/assets/img/appstrore.png" alt /></a>
-                  <a href="#"><img src="assets/img/googleplay.png" alt /></a>
+                  <Link target="_blank" className="me-4" to="https://apps.apple.com/sa/app/artera/id6757599221"><img src="/assets/img/appstrore.png" alt /></Link>
+                  <Link target="_blank" to="https://play.google.com/store/apps/details?id=com.artera_user&pcampaignid=web_share"><img src="assets/img/googleplay.png" alt /></Link>
                   {/* </div> */}
                 </div>
                 {/* <a href="#homesection" className="cta-btn">
@@ -485,8 +485,8 @@ const Home = () => {
                           <p>{t('home.colorGlowDesc')}</p>
                           <div className="downloadpartt">
                             <div className=" d-flex align-items-center justify-content-lg-start justify-content-md-center justify-content-center">
-                              <a className="me-4" href="#"><img src="/assets/img/appstrore.png" alt /></a>
-                              <a href="#"><img src="assets/img/googleplay.png" alt /></a>
+                              <Link target="_blank" className="me-4" to="https://apps.apple.com/sa/app/artera/id6757599221"><img src="/assets/img/appstrore.png" alt /></Link>
+                              <Link target="_blank" to="https://play.google.com/store/apps/details?id=com.artera_user&pcampaignid=web_share"><img src="assets/img/googleplay.png" alt /></Link>
                             </div>
                           </div>
                           {/* <a className="themebtn1 px-4" href="#">{t('home.joinWaitlistBtn')}</a> */}
@@ -501,8 +501,8 @@ const Home = () => {
                           {/* <a className="themebtn1 px-4" href="#">{t('home.claimwelcome')}</a> */}
                           <div className="downloadpartt">
                             <div className=" d-flex align-items-center justify-content-lg-start justify-content-md-center justify-content-center">
-                              <a className="me-4" href="#"><img src="/assets/img/appstrore.png" alt /></a>
-                              <a href="#"><img src="assets/img/googleplay.png" alt /></a>
+                              <Link target="_blank" className="me-4" to="https://apps.apple.com/sa/app/artera/id6757599221"><img src="/assets/img/appstrore.png" alt /></Link>
+                              <Link target="_blank" to="https://play.google.com/store/apps/details?id=com.artera_user&pcampaignid=web_share"><img src="assets/img/googleplay.png" alt /></Link>
                             </div>
                           </div>
                         </div>
