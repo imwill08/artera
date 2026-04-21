@@ -47,14 +47,14 @@ const Footer = () => {
               </div>
               <div className="d-flex">
                 {/* <a className="aboutlinks" href="https://forms.office.com/pages/responsepage.aspx?id=KUryyKRYkESL8nItMS-U7O7NeKyDktdLmgOfVvac0vlUNkFJVE8xSE5TUE1KRDc4MlFaWjlKNUw3Uy4u&route=shorturl" target="_blank" rel="noopener noreferrer"> */}
-                <a className="aboutlinks" href="#homesection" onClick={(e) => scrollToSection(e, 'homesection')}>
+                {/* <a className="aboutlinks" href="#homesection" onClick={(e) => scrollToSection(e, 'homesection')}>
                   {t('footer.earlyRegister')}
-                </a>
+                </a> */}
                 {/* <a className="aboutlinks" href="https://forms.office.com/pages/responsepage.aspx?id=KUryyKRYkESL8nItMS-U7O7NeKyDktdLmgOfVvac0vlUOTVRME82SEI3Q1lYTlEwR0Y0RkpXQ0tYTy4u&route=shorturl" target="_blank" rel="noopener noreferrer"> */}
-                <a className="aboutlinks" href="#homesection" onClick={(e) => scrollToSection(e, 'homesection')}>
+                {/* <a className="aboutlinks" href="#homesection" onClick={(e) => scrollToSection(e, 'homesection')}>
                   {" "}
                   {t('footer.joinHeroProgram')}
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -72,9 +72,9 @@ const Footer = () => {
                     {t('footer.privacyPolicy')}
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href={getLink("#ourstory")}>{t('header.ourStory')}</a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>

@@ -225,12 +225,12 @@ const ServicesSection = () => {
                             </div>
                         )}
                 </div>
-                <div className="newheadbtn">
+                {/* <div className="newheadbtn">
                     {" "}
                     <a className="mainbtnn" href="#homesection" onClick={(e) => scrollToSection(e, 'homesection')}>
                         {t('home.joinWaitlistBtn')}
                     </a>
-                </div>
+                </div> */}
             </div>
         </section>
     )

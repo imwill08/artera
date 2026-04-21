@@ -405,7 +405,7 @@ const Home = () => {
                 <div className="mainheading">
                   <h2 dangerouslySetInnerHTML={{ __html: t('home.exclusiveRewardTitle') }} />
                   <p dangerouslySetInnerHTML={{ __html: t('home.exclusiveRewardDesc') }} />
-                  <p>{t('home.exclusiveRewardNote')}</p>
+                  {/* <p>{t('home.exclusiveRewardNote')}</p> */}
                 </div>
                 <div className="points-box">
                   <div className="points">
@@ -415,9 +415,16 @@ const Home = () => {
                 <p className="note">
                   {t('home.pointsAccountNote')}
                 </p>
-                <a href="#homesection" className="cta-btn">
+                {/* <div className="downloadparttt">*/}
+                <span>{t('home.downloadArtera')}</span>
+                <div className="d-flex pt-3 align-items-center justify-content-lg-center justify-content-md-center justify-content-center">
+                  <a className="me-4" href="#"><img src="/assets/img/appstrore.png" alt /></a>
+                  <a href="#"><img src="assets/img/googleplay.png" alt /></a>
+                  {/* </div> */}
+                </div>
+                {/* <a href="#homesection" className="cta-btn">
                   {t('home.claimPointsBtn')}
-                </a>
+                </a> */}
               </div>
             </div>
           </section>
@@ -512,7 +519,7 @@ const Home = () => {
             </div>
           </section>
           <WhyUsSection />
-          <section id="section" className="rewardcta bgcolor bxpd">
+          {/* <section id="section" className="rewardcta bgcolor bxpd">
             <div className="container text-center">
               <div className="rewardbx">
                 <div className="mainheadingwht">
@@ -536,7 +543,7 @@ const Home = () => {
                 </div>
               </div>
             </div>
-          </section>
+          </section> */}
           <ServicesSection />
           <section id="showcasesection" className="youtubebx bgcolor bxpd">
             <div className="container text-center">
@@ -572,11 +579,11 @@ const Home = () => {
                   </div>
                   <h2 dangerouslySetInnerHTML={{ __html: t('home.shareEarnTitle') }} />
                   <p>{t('home.shareEarnDesc')}</p>
-                  <div className="newheadbtn">
+                  {/* <div className="newheadbtn">
                     <a className="mainbtnn" href="#mainform">
                       {t('home.startEarningsBtn')}
                     </a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
